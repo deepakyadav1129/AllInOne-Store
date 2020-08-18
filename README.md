@@ -2,7 +2,7 @@
  created by using HTML5, CSS, Bootstrap
  
  
- Link:- allinonestore.netlify.app
+ Link of website:- allinonestore.netlify.app
  
  
 Project Developer:-
